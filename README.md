@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Roya!</h1>
 
 
-<p> Roya is modern public image gallery with comment support. The backend is written with Node.js and the frontend is vanila javascript copuled with boostrap for css.
+<p> Roya is modern public image gallery with comment support. The backend is based on Node.js and the frontend is vanila javascript copuled with boostrap for css.
  </p>
 
 <p>
